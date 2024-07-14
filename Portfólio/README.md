@@ -1,6 +1,7 @@
 ﻿# Olá, Bem vindo(a) ao meu projeto de portfólio.
 
-![image](https://github.com/user-attachments/assets/2c203ba9-bc7a-4dd5-a73e-2baf0d119daa)
+![image](https://github.com/user-attachments/assets/306c8bea-a4ca-4730-b591-688e6de42dda)
+
 
 
 
